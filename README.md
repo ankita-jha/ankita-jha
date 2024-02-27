@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**ankita-jha/ankita-jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, World! ☕️
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there! I'm Ankita, a software developer fueled by coffee and a love for coding. I specialize in full-stack software engineering, and I'm always eager to learn and explore new technologies.
+
+- 🔭 I’m currently working on a stock prediction project and portfolio application integrated with blogging.
+- 🌱 I’m currently learning Full stack technologies - Next.Js, webpack, babel 
+- 💬 Ask me about AWS, React.
+- 📫 How to reach me: ankitajhaswe@gmail.com
+- 😄 Pronouns: SHE/HER.
+- ⚡ Fun fact: I'm fueled by coffee and love exploring new coffee shops in my free time!
+
+## Skills
+
+- **Programming Languages:** React, MUI, TypeScript, GraphQL, Styled Components, Tailwind, Firebase, Prisma, Express, NextJS and Figma.
+
+## Connect with Me
+
+- GitHub: https://github.com/ankita-jha
+- LinkedIn: https://www.linkedin.com/in/jha-ankita
+
+
+## Let's Collaborate!
+
+I'm always open to collaboration and new opportunities. If you have an interesting project or idea you'd like to discuss over a cup of coffee, feel free to reach out to me. Let's build something amazing together!
+
