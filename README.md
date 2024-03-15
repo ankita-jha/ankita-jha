@@ -6,11 +6,11 @@
 Hey there! I'm Ankita, a software developer fueled by coffee and a love for coding. I specialize in full-stack software engineering, and I'm always eager to learn and explore new technologies.
 
 - 🔭 I’m currently working on a stock prediction project and portfolio application integrated with blogging.
-- 🌱 I’m currently learning Full stack technologies - Next.Js, webpack, babel 
-- 💬 Ask me about AWS, React.
+- 🌱 I’m currently learning ELK stack
+- 💬 Ask me about AWS, MERN, React and Python
 - 📫 How to reach me: ankitajhaswe@gmail.com
 - 😄 Pronouns: SHE/HER.
-- ⚡ Fun fact: I'm fueled by coffee and love exploring new coffee shops in my free time!
+- ⚡ Fun fact: I love exploring new coffee shops in my free time!
 
 ## Skills
 
@@ -24,5 +24,4 @@ Hey there! I'm Ankita, a software developer fueled by coffee and a love for codi
 
 ## Let's Collaborate!
 
-I'm always open to collaboration and new opportunities. If you have an interesting project or idea you'd like to discuss over a cup of coffee, feel free to reach out to me. Let's build something amazing together!
-
+I'm always open to collaboration and new opportunities. If you have an interesting project or idea you'd like to discuss over a cup of coffee, feel free to reach out to me. 
