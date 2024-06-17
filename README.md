@@ -1,7 +1,4 @@
-
-# Hello, World! ☕️
-
-## About Me
+### About Me
 
 Hey there! I'm Ankita, a software developer fueled by coffee and a love for coding. I specialize in full-stack software engineering, and I'm always eager to learn and explore new technologies.
 
